@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey I'M Priyansh!
 > 🚀 Full-Stack Developer  | Competitive Programmer<br><br>> I'm a Computer Science undergrad at NIT Surat, passionate about building clean, efficient web applications and solving real-world problems through code. I love exploring new technologies and contributing to meaningful projects.<br><br>
 
 
