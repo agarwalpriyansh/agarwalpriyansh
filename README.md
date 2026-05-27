@@ -19,9 +19,7 @@ I am currently exploring concurrent systems, real-time data pipelines, and syste
 |---|---|---|
 | [Kovari](https://github.com/NavneetPrajapati31/KOVARI) | A social travel platform designed for smart group matching and verified connections | `Next.js` `Redis` `Kafka` `Docker` `clerk` |
 | [UPTIME-ENGINE ](https://github.com/agarwalpriyansh/UPTIME-ENGINE) | A distributed, multi-tenant server monitoring system built to track website health, measure latency, and dispatch real-time email alerts. | `Go` `Next.js` `Redis` `Postgres` |
-| [Distributed Ride Booking System]([https://github.com/agarwalpriyansh/Ds-Dryfruits](https://github.com/agarwalpriyansh/scalable-task-queue-system)) |A scalable distributed ride booking system demonstrates asynchronous task processing, atomic locking, and fault tolerance using multiple independent services.
-
- | `GO` `Node` `Javascript` |
+| [Distributed Ride Booking System](https://github.com/agarwalpriyansh/scalable-task-queue-system)) |A scalable distributed ride booking system demonstrates asynchronous task processing, atomic locking, and fault tolerance using multiple independent services.| `GO` `Node` `Javascript` |
 ***
 
 # 📊 GitHub Stats:
